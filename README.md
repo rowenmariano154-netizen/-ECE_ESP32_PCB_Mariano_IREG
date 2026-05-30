@@ -8,6 +8,15 @@ The design incorporates a USB Type-C power interface, expansion headers, filteri
 
 Using EasyEDA for schematic design, PCB layout, and 3D visualization, the project demonstrates the complete PCB development process—from concept and circuit design to board modeling and verification. The resulting hardware serves as a practical platform for learning, experimentation, and the development of wireless embedded applications.
 
+# PCB_IMAGES/SCREENSHOT 
+**PCB_LAYOUT**
+<img width="923" height="685" alt="Image" src="https://github.com/user-attachments/assets/1a8c40a9-8d54-4463-bd1d-c2f958c82e7b" />
+
+**3D_VIEW**
+<img width="1437" height="695" alt="Image" src="https://github.com/user-attachments/assets/d29da7b4-b1ba-4bba-9fc1-0eb03e227b46" />
+
+**SCHEMATIC DIAGRAM**
+<img width="1142" height="790" alt="Image" src="https://github.com/user-attachments/assets/f3ec3945-7cd3-4db7-b447-cef0b5e94ffc" />
 ---
 
 ## Features
@@ -55,21 +64,13 @@ Using EasyEDA for schematic design, PCB layout, and 3D visualization, the projec
 
 - **EasyEDA** – Schematic capture and PCB design
 - **EasyEDA 3D Viewer** – PCB visualization and inspection
-- **Arduino IDE** – ESP32 programming and firmware development
 - **GitHub** – Project documentation and version control
 
----
-
-## PCB Preview
-
-![ESP32 PCB Design](pcb_preview.png)
-
-*3D visualization of the custom ESP32 expansion board designed in EasyEDA.*
 
 ---
 
 ## Author Information
 
-**Name:** Mark Nico H. Mutha
+**Name:** Rowen Dominic R. Mariano
 
-**Course & Section:** ENPHY2 - EN1B
+**Course & Section:** ENPHY1 - IREG
